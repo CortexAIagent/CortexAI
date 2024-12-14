@@ -11,6 +11,15 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/CortexAIagent/CortexAI.git
+   cd CortexAI
+📄 License
+This project is licensed under the MIT License. See LICENSE for more information.
+
+🤝 Contributing
+Contributions are welcome! Please see the CONTRIBUTING.md file for guidelines.
+
+🌐 Learn more at CortexAI Official Website
+
 # CortexAI
 CortexAI is an innovative platform that combines the power of artificial intelligence and blockchain technology to revolutionize cryptocurrency trading. It enables users to optimize their trading strategies, improve risk management, and increase profitability by leveraging advanced AI agents and automation tools.
 
