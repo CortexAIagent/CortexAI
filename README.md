@@ -15,3 +15,16 @@ Enables users to trade with personalized AI agents.
 
 User-Friendly Interface
 Reduces complexity with intuitive tools and smart dashboards.
+# CortexAI
+
+🚀 **CortexAI** is an AI-powered blockchain trading platform designed to optimize strategies, manage risks, and enhance profitability.
+
+## 🌟 Features
+- 🤖 Advanced AI-driven trading insights.
+- 🌐 Seamless blockchain integration with Ethereum and Solana.
+- 📊 Automated strategies for smarter trades.
+
+## 📥 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CortexAIagent/CortexAI.git
