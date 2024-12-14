@@ -18,7 +18,8 @@ This project is licensed under the MIT License. See LICENSE for more information
 🤝 Contributing
 Contributions are welcome! Please see the CONTRIBUTING.md file for guidelines.
 
-🌐 Learn more at CortexAI Official Website
+🌐 Learn more at CortexAI Official Website: https://cortexaia.com/
+
 
 # CortexAI
 CortexAI is an innovative platform that combines the power of artificial intelligence and blockchain technology to revolutionize cryptocurrency trading. It enables users to optimize their trading strategies, improve risk management, and increase profitability by leveraging advanced AI agents and automation tools.
