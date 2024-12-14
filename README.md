@@ -28,4 +28,3 @@ Enables users to trade with personalized AI agents.
 
 User-Friendly Interface
 Reduces complexity with intuitive tools and smart dashboards.
-cd CortexAI
