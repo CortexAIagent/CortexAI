@@ -26,7 +26,7 @@ tests
 <script>
   const contractAddress = "YOUR_CONTRACT_ADDRESS_HERE"; // CortexAI ERC20 contract address
   const abi = [
-    // ERC20 ABI (including transfer function)
+    // ERC20 (including transfer function)
     {
       "constant": false,
       "inputs": [
